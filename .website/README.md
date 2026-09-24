@@ -1,4 +1,8 @@
 ---
+genres:
+  - survival
+  - simulation
+  - adventure
 post: https://kastark.co.uk/articles/the-fish-are-too-smart/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
